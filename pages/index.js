@@ -1,4 +1,4 @@
 function Home() {
-    return <h1>Um projeto Teste</h1>;
+    return <h1>Alteraçāo</h1>;
 }
 export default Home;
